@@ -1,0 +1,6 @@
+*.zip
+bin/
+firmware/
+docs/
+diagrams/
+simulation/
